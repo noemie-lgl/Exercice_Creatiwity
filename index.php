@@ -38,7 +38,7 @@
 		
 			</form>	
 		
-			<p> <a href="http://localhost/exercice_laguelle/registration.php"> Not registered yet? </a> </p> 
+			<p> <a href="http://localhost/Exercice_Creatiwity/registration.php"> Not registered yet? </a> </p> 
 		
 		</div>
 		
